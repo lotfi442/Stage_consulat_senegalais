@@ -13,9 +13,16 @@ Objectifs du projet :
 -Faciliter les demarches administrative par le biais de leur interface internet via l’application.
 -Avoir une vision net du nombres de Sénegalais dans la juridiction  à Marseille dans les departement suivants : Alpes de haute Provence(04),Alpes Maritimes(06), Bouches du Rhone(13), Hérault(34), Var(83) .
 Exemple :
--Receptionner les demandes  (transcription, visa , Identifiant , légalisation des documents) 
+-Receptionner les demandes  (Acte d'etat civil, transcription, visa , légalisation des documents) 
  -Valider la modification des données personnelles avec Mr.Koita
--Créer une base de donnée  
+ -Demande de dossier : accusé de réception pour le reçu du passeport 
+  dossier en cours de traitement, dispo, ….
+-Mieux les connaître, les catégoriser (la juridiction dans laquelle sont les ressortissants qui font des demandes)
+-avoir les libellé de la fiche d’immatriculation
+ contact service technique pour la mise a jour (Samba Cissé)
+
+Sécurité RGPD, quel volume, serveur local, cloud ? répondre à ces questions pour eux 
+  
 
 
 Besoin :
@@ -25,7 +32,11 @@ Besoin :
 Exemple : 
 -Numérisation de la fiche d’immatriculation de la carte consulaire.
 -Numérisation de la photo du ressortissant(e) Sénégalais(e).
--Numérisation de l’acte civile ainsi que les copies originales .
+-Numérisation de la pièce d’identité Sénégalaise.
+-Numérisation du justificatifs de domicile.
+Les passeport
+acte d’état civile
+les certificats de déménagements
 
 
 Bénéfices :
